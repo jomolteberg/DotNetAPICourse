@@ -69,7 +69,7 @@ namespace HelloWorld
  
             bool myBool = true;*/
 
-            string[] myGroceryArray = new string[2];
+            /*string[] myGroceryArray = new string[2];
 
             myGroceryArray[0] = "Guacamole";
             myGroceryArray[1] = "Ice Cream";
@@ -112,6 +112,7 @@ namespace HelloWorld
             };
             
             Console.WriteLine(myGroceryDictionary["Dairy"][0]);
+            */
 
 
 
