@@ -17,6 +17,8 @@ namespace HelloWorld
             Console.WriteLine(itemPrices["cheese"].GetType());
             Console.WriteLine(itemPrices["cheese"]);
             Console.WriteLine(itemPrices["carrots"]);
+
+            
         }
     }
 }
